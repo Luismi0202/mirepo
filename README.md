@@ -1,4 +1,4 @@
 # mirepo
 
 Este es mi repositorio
-[Enlace al otro archivo](archivo.md)
+[Enlace al otro archivo](otroarchivo.md)
